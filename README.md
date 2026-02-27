@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **React native**
 
 - 📫 How to reach me **babida.cij.bscs@gmail.com**
+  
+- 📌 Visit my portfolio **https://ivanotch.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
